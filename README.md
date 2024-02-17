@@ -5,6 +5,8 @@ python -m venv mlproj
 '''bash
 source venv/Scripts/activate
 ''' 
+
+
 '''bash
 pip install -r requirements.txt
 '''
