@@ -21,8 +21,17 @@ python -m venv mlproj
 source venv/Scripts/activate
 ''' 
 
+*git clone http--
+*cd <name of repo>
+*git commit -m " message"
+* git push origin
+
 
 '''bash
 pip install -r requirements.txt
 '''
 `
+
+
+* git clone http
+*
